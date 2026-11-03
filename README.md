@@ -21,3 +21,6 @@ The supplied license number PI188952 is displayed as provided; current license s
 
 ## Original assets
 Original AI-generated Northern California illustrative landscape and casework still life are in `dist/assets`. They are illustrative, not actual premises, cases or staff. Custom vector wordmark, favicon, regional connection graphic and social preview are included. Prompts are documented in SOURCES.md.
+
+## Visual redesign
+The current site uses self-hosted Nimbus Sans for a clean neo-grotesk typographic system. Font licensing is included in FONT-LICENSE.txt. `visuals.py` supplies custom inline SVG artwork for the hero lens, applicant profile, reference connections, assignment scope, experience, and contact channels. All diagonal-arrow glyphs are replaced by SVG paths to avoid emoji presentation on iOS. The original photographic assets remain available in the source but are not the focus of the current design.
