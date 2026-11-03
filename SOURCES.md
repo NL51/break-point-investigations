@@ -30,3 +30,6 @@ Custom SVG monogram, favicon and illustrative regional connection graphic were c
 
 ## Dimensional art revision
 Three original AI-generated brand studies now supply the current hero and service imagery: layered smoked-glass dossier sheets revealing a silver profile; optical glass containing a dimensional identity silhouette; and a macro silver research network. Prompts requested studio-quality lighting, restrained midnight and silver palettes, precise tactile materials, no readable text, no badges or weapons, and no stock office scenes. These are conceptual brand illustrations, not real applicant data or biometric analysis capabilities. The site uses optimized WebP copies.
+
+## Current one-page direction
+The current page replaces prior head, identity, and network illustrations with a single conceptual Northern California landscape. Generated using the built-in image-generation tool: an anonymous curving coastal roadway through tidal water and golden hills in morning mist, natural pale daylight, photographic detail, strong leading line, no people, heads, technological motifs, text or logos. This is a conceptual brand image, not a documented business location.

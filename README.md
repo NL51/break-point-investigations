@@ -1,26 +1,18 @@
 # Break Point Investigations
 
-Responsive, buildless, multipage marketing website for Delvin J. Watts (DJ).
+A single-page website for DJ Watts in Fairfield, California.
 
-## Pages
-Home, Services, Background Investigations, About, Contact, plus Privacy and a 404 page.
+## Structure
+The page follows one concise narrative: introduction, expertise, approach, experience, and contact. Navigation uses on-page anchors. Old service, about, and contact URLs lead to corresponding sections. Privacy information expands in the footer.
 
-## Edit and run
-Edit `build.py` for page copy, metadata and shared layout. Run `python build.py`. Styles and interactions live in `dist/assets/site.css` and `site.js`. Serve `dist` using any static host. The site has no build dependencies.
+## Edit
+Edit `build.py`, then run `python build.py`. Styles and interactions are in `dist/assets/one.css` and `one.js`. Deploy `dist` to a static host. Self-hosted Nimbus Sans fonts are licensed in FONT-LICENSE.txt.
 
-## Contact behavior
-Persistent phone, text and email links are available on every page. The contact form intentionally prepares a mailto email draft, requires the visitor to send in their email client, and clearly states that no submission occurs on the website. No data is stored and no backend email delivery provider is configured. Do not relabel this as a submitted contact form without implementing and testing server delivery.
+## Contact
+Call, SMS and email links connect directly with DJ. The inquiry form prepares an email draft; visitors must send it from their email client. No server-side submission or data storage is configured. This is clearly explained on the page.
 
-## Search and sharing
-Unique titles, descriptions, canonical URLs, Open Graph images, ProfessionalService JSON-LD, robots.txt, and sitemap.xml. Canonical origin currently points to the published Sites address. Update `ORIGIN` and rebuild before migrating to a custom domain. Google indexing and rankings are not guaranteed.
+## Visual direction
+One original landscape image supports the concept of perspective. No heads, portrait illustrations, networks, repeated graphic cards, or emoji glyphs are used. The remaining visual elements are typography, the firm monogram and simple SVG arrows.
 
-## Important identity distinction
-The user supplied breakpointpi.com, but on November 3, 2026 that site identified Karen, a Southern California process-serving operation, phone 310-874-3294. It did not identify DJ Watts. Its Google/Yelp reviews, pricing, process service claims, and social profiles were therefore not copied. This website uses DJ's supplied signature and matching agency public records. Do not associate the other business's listings with this firm.
-
-The supplied license number PI188952 is displayed as provided; current license standing has not been independently confirmed. The street address is designated as a mailing address, not a walk-in office. No unverified social URLs, ratings, review counts, testimonials, or guarantees are published.
-
-## Original assets
-Original AI-generated Northern California illustrative landscape and casework still life are in `dist/assets`. They are illustrative, not actual premises, cases or staff. Custom vector wordmark, favicon, regional connection graphic and social preview are included. Prompts are documented in SOURCES.md.
-
-## Visual redesign
-The current site uses self-hosted Nimbus Sans for a clean neo-grotesk typographic system. Font licensing is included in FONT-LICENSE.txt. `visuals.py` supplies custom inline SVG artwork for the hero lens, applicant profile, reference connections, assignment scope, experience, and contact channels. All diagonal-arrow glyphs are replaced by SVG paths to avoid emoji presentation on iOS. The original photographic assets remain available in the source but are not the focus of the current design.
+## Identity
+DJ's supplied signature and matching agency public records establish the published business details. The supplied breakpointpi.com domain identified a different Southern California process-serving business during research, so its reviews and contacts were excluded. The California license number is displayed as provided, with a lookup resource. Address is a mailing address. Current canonical URL is the public Sites address; update in build.py before migrating domains.
