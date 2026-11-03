@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://break-point-investigations.roundprawn256.chatgpt.site/sitemap.xml
