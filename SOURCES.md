@@ -27,3 +27,6 @@ Hero prompt: Premium cinematic panoramic Northern California waterway and suspen
 Casework prompt: Premium editorial still life of organized unmarked paper case folders, a navy notebook, pen and reading glasses on an oak desk with natural architectural window shadows. Navy and cream palette. No personal data, readable text, badge, weapons, people, or logos.
 
 Custom SVG monogram, favicon and illustrative regional connection graphic were created in code. The social sharing preview was composed from the original landscape with the firm's typography and contact information.
+
+## Dimensional art revision
+Three original AI-generated brand studies now supply the current hero and service imagery: layered smoked-glass dossier sheets revealing a silver profile; optical glass containing a dimensional identity silhouette; and a macro silver research network. Prompts requested studio-quality lighting, restrained midnight and silver palettes, precise tactile materials, no readable text, no badges or weapons, and no stock office scenes. These are conceptual brand illustrations, not real applicant data or biometric analysis capabilities. The site uses optimized WebP copies.
