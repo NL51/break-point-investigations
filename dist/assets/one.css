@@ -8,3 +8,27 @@
 /* Public-safety authority: navy, steel, white, natural photography. */
 :root{--ink:#142a40;--muted:#647487;--paper:#f8fafc;--line:#d8e1e9;--dark:#142e49}
 body{background:#f8fafc}header{background:#f8fafcf2;border-color:#d8e1e9}.brand .mark{color:#617e99}.nav-contact{border-color:#c4d2df}.nav-contact:hover{background:#e7eef5}h1>span,h2>span{color:#718aa2}.eyebrow{color:#587490}.button.dark{background:#142e49}.button:hover{background:#28557e}.text-link{color:#234e75;border-color:#b8cadd}.text-link:hover{color:#173c60;border-color:#476f92}.hero-image img{filter:none}.hero-image:after{background:linear-gradient(transparent,#0a26445c)}.credentials strong{color:#17344f}.credentials span{color:#728196}.service-number{color:#7a90a6}.services article>a{color:#426d95}.approach{background:#eaf0f6}.process article{border-color:#bdcedf}.process article>span{color:#7a95b0}.dj-wordmark{background:linear-gradient(140deg,#e9eff6,#f7faff);border-color:#cedbe7}.dj-wordmark>div:not(.signature-line){color:#1a3a58}.dj-wordmark>div>span{color:#91a9bf}.dj-wordmark p{color:#2a4a67}.dj-wordmark p>span{color:#7f94a9}.signature-line{background:#8ca6bd}.contact{background:#102a44}.contact .eyebrow{color:#99b3ce}.contact h2>span{color:#92b2d0}.contact-grid>div>p:not(.eyebrow){color:#b2c3d4}.contact-options{color:#c4d6e8}.location{border-color:#35536e}.location p{color:#9bb2c8}.inquiry{background:#f8fafc}.inquiry .eyebrow{color:#587490}form label{color:#536d85}input,textarea{border-color:#c0d0e0;color:#193b5a}input:focus,textarea:focus{border-color:#376d9b}.form-note{color:#7f91a4}#form-status{background:#e2edf7}.mobile-contact{background:#f8fafcf2;border-color:#c4d4e2}.mobile-contact a{border-color:#d8e1e9}@media(max-width:800px){.mobile-nav:not([hidden]){background:#f8fafc}.menu span{background:#193b5a}}
+
+/* Stronger typographic hierarchy and confident blue accents. */
+h1,h2,h3{font-weight:900;paint-order:stroke fill}
+h1{-webkit-text-stroke:1.3px currentColor;letter-spacing:-.052em}
+h2{-webkit-text-stroke:.8px currentColor;letter-spacing:-.045em}
+h3{-webkit-text-stroke:.35px currentColor}
+h1>span,h2>span{color:#28669c}
+.hero h1{font-size:clamp(76px,7.7vw,112px);line-height:.94}
+.hero .eyebrow{font-size:10px;font-weight:700;color:#235b87;letter-spacing:.13em}
+.hero-description{color:#40566b;font-size:18px}
+.eyebrow{font-weight:700}.quiet{font-size:12px;color:#40566b}
+.button{font-weight:700;box-shadow:0 7px 20px #142e491a}
+.button.dark{background:#205e93}.button.dark:hover{background:#143f65}
+.nav-contact{background:#142e49;color:#fff;border-color:#142e49;font-weight:700}.nav-contact:hover{background:#205e93}
+.brand>span{font-weight:900;-webkit-text-stroke:.25px currentColor}.brand .mark{color:#205e93}
+.hero-image{box-shadow:0 18px 44px #142e491c}
+.credentials{border-top:2px solid #183d60;background:#eaf1f7;padding:30px 24px}.credentials strong{font-size:28px;font-weight:900;letter-spacing:-.045em}.credentials span{color:#486079;font-size:11px}
+.services{border-top:2px solid #183d60}.services h3{color:#122e49}.services article>a{background:#e1edf8;border-radius:50%;padding:8px;display:flex;align-items:center;justify-content:center;width:36px;height:36px;margin-left:-8px}.services article>a:hover{background:#c8def0}.services p:not(.eyebrow){color:#496075}
+.approach{background:#e2ecf6}.process article{border-top:2px solid #9eb9d2}.process article>span{color:#205e93;font-weight:900}.process p{color:#496075}
+.dj-wordmark{background:#163955;border-color:#163955}.dj-wordmark>div:not(.signature-line){color:#fff;-webkit-text-stroke:2px currentColor}.dj-wordmark>div>span{color:#74afe0}.dj-wordmark>.eyebrow,.dj-wordmark p{color:#f1f6fc}.dj-wordmark p>span{color:#b3cce2}.signature-line{background:#74afe0}
+.contact{background:linear-gradient(120deg,#102a44,#19466d)}.contact h2>span{color:#8fc5f1}.contact .phone{font-weight:700}.contact-options{font-weight:700}.inquiry{box-shadow:0 20px 55px #061a3033}.form-note{color:#586f85}
+.text-link{font-weight:700}.mobile-contact a{font-weight:700}.mobile-contact a:last-child{background:#205e93;color:white}
+@media(min-width:801px) and (max-width:1100px){.hero h1{font-size:clamp(61px,7.4vw,81px)}}
+@media(max-width:800px){.hero h1{font-size:clamp(49px,14.5vw,96px);-webkit-text-stroke:1px currentColor;line-height:.96}.hero .eyebrow{font-size:8px}.hero-description{font-size:16px}.credentials{padding:22px 10px}.credentials strong{font-size:20px}.credentials span{font-size:9px}.hero-image{box-shadow:0 12px 28px #142e491a}h2{-webkit-text-stroke:.6px currentColor}.services article>a{width:28px;height:28px;padding:5px;margin-left:-6px}.quiet{font-size:11px}}
